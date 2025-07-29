@@ -46,7 +46,6 @@ All lookups have a **one-to-many** relationship with the `Manufacturing Data` fa
 ## 🧮 DAX Measures
 
 The **Measure Table** includes:
-assets
 - `Defects %`
 - `Downtime %`
 - `Max Production`
