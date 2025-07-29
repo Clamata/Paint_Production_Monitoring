@@ -39,7 +39,7 @@ All lookups have a **one-to-many** relationship with the `Manufacturing Data` fa
 
 ### 🗺️ Data Model Diagram
 
-![Data Model](\Readme%20images\Data%20Model.png)
+![Data Model](Readme%20images/Data%20Model.png)
 
 ---
 
@@ -75,9 +75,9 @@ The measure calculates previous month production efficiency rate using an existi
 Dashboard 1: Overview
 ![Overview](Readme%20images/Overview.png)
 Dashboard 2: Operator Detail
-![Operator Detail](\Readme%20images\Operator%20Detail.png)
+![Operator Detail](Readme%20images/Operator%20Detail.png)
 Dashboard 3: Machine Detail
-![Machine Detail](\Readme%20images\Machine%20Detail.png)
+![Machine Detail](Readme%20images/Machine%20Detail.png)
 
 ## 📁 Folder Structure
 
