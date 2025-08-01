@@ -82,19 +82,18 @@ Dashboard 3: Machine Detail
 
 ```
 Paint_Production_Monitoring/
-│
-├── report.pbix
-├── README.md
-└── assets/
-    ├── Data Model.png
-    ├── Overview.png
-    ├── Operator Detail.png
-    └── Machine Detail.png
+├───assets
+│   └───icons
+│       ├───machine
+│       ├───people
+│       └───stat
+└───Readme images
+
 ```
 
 ## 🚀 How to Use
 
-1. Open `report.pbix` in Power BI Desktop.
+1. Open `paint_production_monitoring.pbix` in Power BI Desktop.
 2. Update data sources if necessary.
 3. Refresh and explore the dashboards.
 
